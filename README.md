@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tristan Gascoin, @tristan-gscn on GitHub
+- 👋 Hi, I’m Tristan Gascoin, @tristan-gscn on Codeberg and GitHub
 - 🇫🇷 French developer
 - 📚 Interested by all type of development
 - ♾️ Continiously learning
